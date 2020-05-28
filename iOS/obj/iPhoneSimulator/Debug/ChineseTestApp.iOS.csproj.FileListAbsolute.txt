@@ -1,0 +1,15 @@
+/Users/39664/Projects/ChineseTestApp/iOS/bin/iPhoneSimulator/Debug/ChineseTestApp.iOS.exe
+/Users/39664/Projects/ChineseTestApp/iOS/bin/iPhoneSimulator/Debug/ChineseTestApp.iOS.pdb
+/Users/39664/Projects/ChineseTestApp/iOS/bin/iPhoneSimulator/Debug/ChineseTestApp.dll
+/Users/39664/Projects/ChineseTestApp/iOS/bin/iPhoneSimulator/Debug/ChineseTestApp.pdb
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/ChineseTestApp.iOS.csprojAssemblyReference.cache
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/ChineseTestApp.iOS.csproj.CoreCompileInputs.cache
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/ChineseTestApp.iOS.csproj.CopyComplete
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/ChineseTestApp.iOS.exe
+/Users/39664/Projects/ChineseTestApp/iOS/obj/iPhoneSimulator/Debug/ChineseTestApp.iOS.pdb
